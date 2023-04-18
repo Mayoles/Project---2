@@ -1,14 +1,12 @@
 # Проект 2. Анализ вакансий из HeadHunter
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Mayoles/Project-1-/blob/main/README.md#описание-проекта)
+[1. Этапы работы над проектом?](https://github.com/Mayoles/Project---2#этапы-работы-над-проектом)
 
-[2. Этапы работы над проектом?](https://github.com/Mayoles/Project---2/blob/main/Project_2.ipynb)
-
-[3. Результат](https://github.com/Mayoles/Project---2/blob/main/Project_2.ipynb)
+[2. Результат](https://github.com/Mayoles/Project---2/blob/main/Project_2.ipynb)
 
 
-### Требования к оформлению ноутбука**
+### Требования к оформлению ноутбука
 - Решение оформляется только в Jupyter Notebook.
 - Решение оформляется в соответствии с ноутбуком-шаблоном.
 - Каждое задание выполняется в отдельной ячейке, выделенной под задание (в шаблоне они помечены как ваш код здесь). Не следует создавать много ячеек для решения задачи — это провоцирует неудобства при проверке.
@@ -27,4 +25,4 @@
 ### Результат
 [Ноутбук с выполненным заданием](https://github.com/Mayoles/Project---2/blob/main/Project_2.ipynb)
 
-:arrow_up:[к оглавлению](https://github.com/Mayoles/Project-1-/blob/main/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Mayoles/Project---2#оглавление)
